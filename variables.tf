@@ -10,3 +10,7 @@ variable "account_id" {
   type    = string
   default = "717210094962"
 }
+
+variable "profile_id" {
+  type = string
+}
